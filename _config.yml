@@ -1,0 +1,89 @@
+# Site settings
+title: cnb0 profile
+twitter_username: cnb0
+name: cnb0
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: https://narenbabuin.wordpress.com/
+ - title: GitHub
+   url: https://github.com/cnb0
+ 
+#Any buzzword skills you want to include
+skills:
+ - DevOps 2.0
+ - CKAD - Kubernetes certified 
+ - CI/CD
+ - Microservices
+ - Jenkins
+ - Product management
+ - API design
+ - C/C++
+ - TDD/BDD
+ - SQL
+ - REST
+ - Technical Architecture
+ - Presales
+
+
+#Work experience is required
+roles:
+ - title: CTO
+   start: 2019
+   end: Ongoing
+   employer: Startup 
+   description: Legaltech startup producing a range of innovative legal products. Pr
+ - title: DevOps Architect 
+   start: 2016
+   end: 2019
+   employer: BB
+   description: DevOps , CICD , Jenkins , Docker , K8s 
+ - title:Vice President
+   start: 2012
+   end: 2016
+   employer: BLK
+   description: GCC Compilers , CI/CD , BuildSystems , DevOps , Linux Debugging ,Docker
+ - title: Solution Architect
+   start: 2005
+   end: 2012
+   employer: HPQ
+   description: Presales Solution Architect 
+
+#Education is required
+education:
+ - level: Bachelor of Technology (BTech.)
+   date: 2000
+   subject: Computer Science Engg
+   school: Bits Pilani
+
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   courses:
+    - title: Functional Programming Principles in Scala
+      link: https://www.coursera.org/course/progfun
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: September 16, 2013
+    - title: Algorithms Design and Analysis, Part 1
+      link: https://www.coursera.org/specializations/algorithms
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      date: April 28, 2014
+
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - cnb0/cnb0.github.io
+ - cnb0/learning-k8s
+ - cnb0/workshop-docker
+ 
+
+intro: |
+  I am an engineer with 20 years experience working in technology space . I have primarily worked on the C/C++ , DevOps , Unix/Linux , CICD , Jenkins , Microservices and kubernetes, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
+  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
+  I have worked in large scale FinTech roles in new Yoek US as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup  where we are building innovative products in DevOps space 
+
